@@ -86,9 +86,9 @@ const Tempapp2 = () => {
                 </div>
 
 
-                <div id="weathercon">
+                {/* <div id="weathercon">
                     <i className="fas fa-sun" style={{color: '#eccc68'}}></i>
-                </div>
+                </div> */}
 
 
                 {!city ? (

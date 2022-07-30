@@ -189,6 +189,11 @@ margin-top: 52px;
     animation: fas-anime 3s linear infinite alternate;
 }
 
+/* #weathercon .fa-light{
+    font-size: 6rem;
+    animation: fa-anime 3s linear infinite alternate;
+} */
+
 @keyframes fas-anime{
     from{
         transform: scale(1);
@@ -197,6 +202,15 @@ margin-top: 52px;
         transform: scale(1.2);
     }
 }
+
+/* @keyframes fa-light-anime{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.2);
+    }
+} */
 
 @media(max-width: 600px){
     .box{
